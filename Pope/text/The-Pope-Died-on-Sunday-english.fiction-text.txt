@@ -210,7 +210,7 @@ completely won’t have understood it.”
 “I don’t suppose you gain such practises when you learn Computer Science in
 college?” Alex told her.
 
-“Unfortunately, the purpose of computer science education in college is
+“Unfortunately, the purpose of Computer Science education in college is
 to teach you completely different things. Like how to implement a
 self-balancing tree, or how to write a program that calculates a product
 of two numbers in Lambda calculus, or how to write a compiler. Or a thousand
