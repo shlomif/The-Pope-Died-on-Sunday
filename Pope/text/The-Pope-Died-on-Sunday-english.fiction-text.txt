@@ -639,6 +639,34 @@ uncomfortable forever. As much as Rachel cared about Katie, she wondered
 if it was right that she would ruin her first date with a guy that had made
 a good impression on her.
 
+They arrived at the restaurant eventually, and were seated. Katie and Greg
+continued to talk, and Rachel asked the waiter to wait before they would
+order. Thus, some time went on.
+
+“So you said you are a water and sewers infratstructures engineer. Anything
+new there?” Katie asked.
+
+“New? Yes, there’s always something new.” said Greg, “for instance, I recently
+read in an article that appeared in one of the papers of civil engineering,
+that they did a massive change of the infrastructure in large parts of the
+city, and cut every area from the supply onl once, and never more than two
+hours. They used a computer program to plan everything, and it worked almost
+according to plan.”
+
+“Really?” Katie said, “Rachel, computer programs are your forte…” (“thanks
+that you finally including me in the conversation”, Rachel thought)
+“…, how do you think that this program worked?”
+
+“Don't know,” Rachel said, “I suppose it has to do with Graph Theory, but I
+am not familiar with the characteristics of the situation.”
+
+“Graph Theory… to be honest - I am not sure what that is. Greg, maybe you can
+tell Katie about the constraints and she will develop an algorithm or whatever
+it is called? Actually no, I won’t understand anything from that.”
+
+“Yes,” Rachel said, “It may leave you out of the conversation,.” (“Which may
+not be a bad thing.”, she thought.)
+
 </s>
 
 </body>
