@@ -661,8 +661,8 @@ that you finally including me in the conversation”, Rachel thought)
 am not familiar with the characteristics of the situation.”
 
 “Graph Theory… to be honest - I am not sure what that is. Greg, maybe you can
-tell Katie about the constraints and she will develop an algorithm or whatever
-it is called? Actually no, I won’t understand anything from that.”
+explain the constraints to Rachel, and she will develop an algorithm or
+whatever it is called? Actually no, I won’t understand anything from that.”
 
 “Yes,” Rachel said, “You may be left out of the conversation.” (“Which may
 not be a bad thing.”, she thought.)
