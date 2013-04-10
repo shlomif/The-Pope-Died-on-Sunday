@@ -61,6 +61,21 @@
                 </para>
             </abstract>
         </info>
-</xsl:template>
+    </xsl:template>
+
+    <xsl:template match="//d:article">
+        <article>
+            <xsl:attribute name="version">
+                <xsl:value-of select="version" />
+            </xsl:attribute>
+            <xsl:attribute name="xml:id">
+                <xsl:value-of select="@xml:id" />
+            </xsl:attribute>
+            <xsl:attribute name="xml:lang">
+                <xsl:value-of select="'en-GB'" />
+            </xsl:attribute>
+            <xsl:apply-templates />
+        </article>
+    </xsl:template>
 
 </xsl:stylesheet>
