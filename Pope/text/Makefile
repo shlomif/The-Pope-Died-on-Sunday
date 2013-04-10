@@ -24,6 +24,7 @@ DOCS_FICTION_ODT = $(patsubst %,%.odt,$(STORY_LANGUAGE_BASES))
 DOCS_FICTION_HTML_FOR_OOO = $(patsubst %,%.for-openoffice.html,$(STORY_LANGUAGE_BASES))
 
 ENG_DB_PROCESSED = $(ENG_STORY).db5.xml
+ENG_DB_POST_PROCESSED = $(ENG_STORY).postproc-db5.xml
 ENG_DB_XSLT = docbook-epub-preproc.xslt
 ENG_DB_SOURCE = $(ENG_STORY).db5.xml
 
@@ -96,7 +97,12 @@ XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-snapshot/
 
 EPUB_SCRIPT = $(XSL_SNAPSHOT_HOME)/epub/bin/dbtoepub
 
-$(ENG_EPUB) : $(ENG_DB_PROCESSED)
+DB5_TO_DB5_XSLT = docbook-to-docbook.xslt
+
+$(ENG_DB_POST_PROCESSED): $(ENG_DB_PROCESSED) $(DB5_TO_DB5_XSLT)
+	xsltproc -o $@ $(DB5_TO_DB5_XSLT) $(ENG_DB_PROCESSED)
+
+$(ENG_EPUB) : $(ENG_DB_POST_PROCESSED)
 	$(JING) $<
 	ruby $(EPUB_SCRIPT) -s $(ENG_EPUB_XSLT) -o $@ $<
 
