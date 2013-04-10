@@ -27,6 +27,8 @@ ENG_DB_PROCESSED = $(ENG_STORY).db5.xml
 ENG_DB_XSLT = docbook-epub-preproc.xslt
 ENG_DB_SOURCE = $(ENG_STORY).db5.xml
 
+ENG_EPUB_XSLT = $(ENG_DB_XSLT)
+
 DOCBOOK5_XSL_STYLESHEETS_PATH := $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 
 HOMEPAGE := $(HOME)/Docs/homepage/homepage/trunk
@@ -96,7 +98,7 @@ EPUB_SCRIPT = $(XSL_SNAPSHOT_HOME)/epub/bin/dbtoepub
 
 $(ENG_EPUB) : $(ENG_DB_PROCESSED)
 	$(JING) $<
-	ruby $(EPUB_SCRIPT) -o $@ $<
+	ruby $(EPUB_SCRIPT) -s $(ENG_EPUB_XSLT) -o $@ $<
 
 $(DOCS_FICTION_HTML_FOR_OOO): %.for-openoffice.html: %.xhtml
 	cat $< | perl -lne 's{(</title>)}{$${1}<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />}; print unless m{\A<\?xml}' > $@
@@ -112,6 +114,9 @@ epub: $(ENG_EPUB)
 
 epub_ff: epub
 	firefox $(ENG_EPUB)
+
+epub_ok: epub
+	okular $(ENG_EPUB)
 
 %.show:
 	@echo "$* = $($*)"
