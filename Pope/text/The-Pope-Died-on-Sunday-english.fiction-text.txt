@@ -774,6 +774,38 @@ his own qualities.” Greg replied.
 “Well, even a bad plumber is good enough for certain needs.” said
 Rachel and witnessed Greg bursting into laughter.
 
+At that moment, the waiter approached the table and smiled due to Greg’s
+laughter. “Do you want to order anything now?” he asked.
+
+Rachel ordered Minestrone soup as an entrée and steak for the main course,
+while Greg ordered Minestrone soup and a Hamburger. The waiter took note
+of the order and went away.
+
+“OK, let’s return to the conversation,” Greg told Rachel, “You said you are
+a computer developer and you deal with…”
+
+“Graphics, yes.”
+
+“Oh, nice! And are you happy?”
+
+“Yes, mostly.”
+
+“And how did you get into that?”
+
+“Well, it started from an early age, when my parents bought my brother and
+I an XT machine, and told us we should both sit next to it simultaneously
+and that we should learn to program it. So that way my brother and I
+learned how to program various games and demos in BASIC, and later on learned
+some other programming languages that were available there. Towards the
+end of high school, we also became familiar with the Internet (on a more
+advanced computer, naturally) and now I am using it most of the time. Also
+in university, I became familiar with UNIX machines, that includ Linux —
+even while working on the local workstation — not while working on a remote
+server, and I concluded that this is where the future of home computing is.”
+
+“I know what UNIX is, as I dealt with it a little in college, naturally,
+but I didn’t hear of Linux.” Greg said.
+
 </s>
 
 </body>
