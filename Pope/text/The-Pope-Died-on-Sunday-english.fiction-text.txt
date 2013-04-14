@@ -806,6 +806,25 @@ server, and I concluded that this is where the future of home computing is.”
 “I know what UNIX is, as I dealt with it a little in college, naturally,
 but I didn’t hear of Linux.” Greg said.
 
+“Well, Linux for simplicity’s sake is ‘UNIX for PCs’ and it also does not
+usually cost any money, and the code is available under an open-source licence.
+It also has a cool name, as well as a nice mascot of a penguin called ‘Tux’.”
+
+“All right, nice. So why are you dealinlg with computer graphics?”
+
+“Well, it’s a talent that I acquired during my studies in college, where I
+volunteered for various newspapers and pamphlets as a reporter and a
+designer. It requires me to work with the Windows 98 operating system, which
+I have unbelievably learned to despise. During my free time, I am still
+programming stuff, and it also gives me an advantage over other graphic
+artists, who are less proficient in programming than I am. All in all,
+the pay is good, and the job is also interesting and satisfying, so that
+is what I am doing now.”
+
+“Nice.” Greg replied.
+
+“So how were your first days at your work here?” Rachel asked.
+
 </s>
 
 </body>
