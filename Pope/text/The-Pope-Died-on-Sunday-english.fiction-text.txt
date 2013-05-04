@@ -1028,6 +1028,30 @@ to say that.”
 
 ------------
 
+“So where do you put yourself on the political map?”
+
+“It may sound a little weird for a German…” replied Rudolph, “but I am
+an Objectivist. It’s just the crazies philosophy that is suitable for my
+own private craziness.”
+
+“To be honest, one needs to be a little Objectivist in order to internalise
+the books of Ayn Rand, so the Objectivistification process requires a little
+bootstrapping.”
+
+“What is ‘bootstrapping’?” Ashley asked.
+
+“It’s a term from computing” Rachel answered, “which means that one needs to
+use something to build or initiate itself. I’ll give you an example: there’s
+a compiler of the C programming language called gcc, which is itself
+written in C.”
+
+“So how do you compile it?”
+
+“You use a different compiler, or an older version of the same compielr.”
+
+“Or you install a package that someone else compiled for you…” added Rudolph.
+
+------------
 
 </s>
 
