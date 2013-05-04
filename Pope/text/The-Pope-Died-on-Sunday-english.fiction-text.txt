@@ -970,6 +970,12 @@ in casual aprt time jobs that were not related to her qualification.
 
 ------------
 
+</s>
+
+<s id="unintegrated-portions">
+
+<title>Portions of the story that were not integrated into the mainline yet.</title>
+
 ------------
 
 “You know,” Rachel said, “your character does not add up to a whole number.”

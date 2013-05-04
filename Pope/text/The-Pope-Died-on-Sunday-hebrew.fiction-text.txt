@@ -873,6 +873,11 @@ depreciated, כמו שאומרים.“
 
 ------------
 
+</s>
+
+<s id="unintegrated-portions">
+
+<title>קטעים שלא שולבו עדיין</title>
 
 ------------
 
