@@ -799,7 +799,7 @@ learned how to program various games and demos in BASIC, and later on learned
 some other programming languages that were available there. Towards the
 end of high school, we also became familiar with the Internet (on a more
 advanced computer, naturally) and now I am using it most of the time. Also
-in university, I became familiar with UNIX machines, that includ Linux —
+in university, I became familiar with UNIX machines, and that included Linux —
 even while working on the local workstation — not while working on a remote
 server, and I concluded that this is where the future of home computing is.”
 
