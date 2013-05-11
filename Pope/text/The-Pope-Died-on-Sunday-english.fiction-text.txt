@@ -1053,7 +1053,7 @@ written in C.”
 
 “So how do you compile it?”
 
-“You use a different compiler, or an older version of the same compielr.”
+“You use a different compiler, or an older version of the same compiler.”
 
 “Or you install a package that someone else compiled for you…” added Rudolph.
 
