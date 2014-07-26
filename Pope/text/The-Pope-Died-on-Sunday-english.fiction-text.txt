@@ -26,8 +26,8 @@ Copyright Terms Page</a> for how to comply with this licence.
 
 The pope died on Sunday.
 
-It didn't bother Rachel Southern too much. She was half-Catholic, but if
-you asked her if God indeed existed, she would say: “Even if God existed,
+It didn't bother Rachel Southern too much. Even though she was half-Catholic,
+if you asked her if God exists, she would say: “Even if God existed,
 he would not expect us to believe in him”. And of course she didn't buy
 an artificial division of him into three parts, even if she believed he
 exists. And so she went on her way to work on Monday, on what seemed like
@@ -91,10 +91,10 @@ constant.”
 
 “That doesn't sound good.” said Eva.
 
-“It doesn’t.” said Rachel, as she lifted her cup of tea. “It really
+“It does not.” said Rachel, as she lifted her cup of tea. “It really
 really doesn't.”
 
-Rachel went to her computer, and started working on it. She had a
+Rachel went to her computer, and started to work on it. She had a
 picture she had to finish in Illustrator, but at the same time also
 read her E-mail.
 
@@ -214,7 +214,7 @@ college?” Alex told her.
 to teach you completely different things. Like how to implement a
 self-balancing tree, or how to write a program that calculates a product
 of two numbers in Lambda calculus, or how to write a compiler. Or a thousand
-different things that in 90%of the cases you won’t have to use. And in the
+different things that in 90% of the cases you won’t have to use. And in the
 remaining 10% cases, I am sure that Electrical Engineers, or Physicists or
 people without any academic qualification could be equally
 as successful.”
@@ -267,7 +267,7 @@ When she arrived at the building where she lived, and climbed up the stairs
 to her apartment, she saw her neighbour, Cliff, talking with a different man.
 She liked Cliff and therefore stopped to see what it was all about.
 
-“Rachel,” called Cliff as she approached. “Please meet Greg, my friend
+“Rachel,” Cliff called as she approached. “Please meet Greg, my friend
 from university, who relocated to Milwaukee for a new job, recently.”
 
 “Pleasure to meet you, Greg.” Rachel said and took a look at him. Greg had
