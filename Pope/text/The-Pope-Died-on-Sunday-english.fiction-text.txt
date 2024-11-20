@@ -635,7 +635,7 @@ two girls took the cab to a fancy restaurant, and the one who was dressed
 less elegantly was the one talking with the guy most of the time. Then she
 concluded that regardless of what the cab driver thought, which didn't
 bother her too much, in her opinion, the whole situation was awkward and
-uncomfortable forever. As much as Rachel cared about Katie, she wondered
+uncomfortable. As much as Rachel cared about Katie, she wondered
 if it was right that she would ruin her first date with a guy that had made
 a good impression on her.
 
@@ -654,7 +654,7 @@ hours. They used a computer program to plan everything, and it worked almost
 according to plan.”
 
 “Really?” Katie said, “Rachel, computer programs are your forte…” (“thanks
-that you finally including me in the conversation”, Rachel thought)
+that you finally include me in the conversation”, Rachel thought)
 “…, how do you think that this program worked?”
 
 “Don't know,” Rachel said, “I suppose it has to do with Graph Theory, but I
@@ -677,7 +677,7 @@ bathroom. I think I forgot to do something at home.”
 
 “OK,” Greg said, “I’ll wait here.”
 
-Rachel went to the bathroom, opened the door and saw Katie arrange her face.
+Rachel went to the bathroom, opened the door and saw Katie arranging her face.
 Rachel went to do it herself. “Greg is very nice.” Katie said, “I’m enjoying
 every moment.”
 
@@ -716,7 +716,7 @@ I’m not wanted.”
 
 Katie went away and then turned again towards the mirror “Wait, do I look
 fine?” she said and arranged her hair in her hand, “Actually it doesn’t
-matter.” and she went from there with vigour.
+matter.” and she went away vigorously.
 
 Rachel was stunned. “What in the name of all that is holy, just happened here?”
 she thought to herself. She looked at the mirror, arranged her look a
@@ -751,7 +751,7 @@ said, “I spent a large part of the summer vacations being an apprentice for
 plumbers and enjoyed every moment. Anyway, after I graduated from high school,
 I was planning to go through a plumbing training course and to get my
 qualification. But my father approached me and told me: ‘Greg, my son, I have,
-thank God, enough money so you study what you want in university. So why not
+thank God, enough money so you can study what you want in university. So why not
 exploit that? If you want, you can become a plumber who graduated from
 university.’”
 
@@ -959,7 +959,7 @@ best time for you to visit.”
 
 Rachel believed she inherited the sum of her parents’ insanities. Rachel’s
 father went to Medical school, but after 5 years of treating patients
-decided to transfer to research. He has already done a Masters and a Ph.D
+decided to transition to research. He has already done a Masters and a Ph.D
 in Biology but still believed he was a doctor by heart. However, Rachel and
 her brother always said he was “a scientist” because a doctor sounded
 too mundane for them. Rachel’s mother studied along with Rachel’s father
@@ -1065,7 +1065,7 @@ written in C.”
 
 “‘I am” is the answer to the question of Life, the Universe and Everything.”
 
-“Really? I thought the answer to it was 42.”
+“Really? I thought the answer to it was ‘42’.”
 
 Rachel really wanted to hit Greg with her fist. But she knew better than
 to do that, and so only said “Bleh.”, and went away. Greg watched her exit
@@ -1128,8 +1128,8 @@ Rachel quickly stopped kissing Greg and told her mother: “Hi, mum, it’s
 so nice you joined us here. We were just talking about… hmmm… oh well, we
 were not really talking.”
 
-“I will go to the seats to sea the second part of the play.” Greg said, and
-passed Rachel’s mother, and exited the balcony.”
+“I will go to the seats to see the second part of the play.” Greg said, and
+passed Rachel’s mother, and went out of the balcony.
 
 “Well, mother, ” Rachel said, “I have a script to memorise.”
 
@@ -1158,7 +1158,7 @@ you’ll see her enough in my next fashion show, whatever its format may be.”
 
 “Tell me, is there a chance that the new pope died today?”
 
-“They didn’t tell it in the news.”
+“It wasn’t in the news.”
 
 “Did Bill Gates die in a plane crash? (God forbid.)”
 
